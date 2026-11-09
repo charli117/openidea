@@ -1,27 +1,27 @@
-src/features/plugins/backend.ts
-  87990975e9448f01 66,193-206,208,210
-  b6f3804df1c4a424 67,190-192,207,209,211-212
 src-tauri/src/commands/plugin.rs
   a8a264ebbecd03c1 114,300,305
   b6f3804df1c4a424 341,352
-crates/ide-host/src/plugins/commands.rs
-  b6f3804df1c4a424 1-30
+crates/ide-host/src/plugins/providers.rs
+  b6f3804df1c4a424 190
 crates/ide-host/src/plugins/mod.rs
   b6f3804df1c4a424 19,86-88,1227-1238,1241,1364-1377,1412-1414,1421-1428
   a8a264ebbecd03c1 1242-1243
-src/features/plugins/__tests__/commandBackend.test.ts
-  b6f3804df1c4a424 1-11,13-31,34-38,58-105
-  87990975e9448f01 12,32-33,39-57
 src/bindings.ts
   a8a264ebbecd03c1 1095
   b6f3804df1c4a424 1106
+src/features/plugins/backend.ts
+  87990975e9448f01 66,193-206,208,210
+  b6f3804df1c4a424 67,190-192,207,209,211-212
+src/features/plugins/__tests__/commandBackend.test.ts
+  b6f3804df1c4a424 1-11,13-31,34-38,58-105
+  87990975e9448f01 12,32-33,39-57
 crates/ide-host/src/plugins/remote_host.rs
   b6f3804df1c4a424 389-390
 crates/ide-host/tests/remote_plugins.rs
   b6f3804df1c4a424 353-380,386-418,420-489
   7bf4b5a94f64b80d 381-385,419
-crates/ide-host/src/plugins/providers.rs
-  b6f3804df1c4a424 190
+crates/ide-host/src/plugins/commands.rs
+  b6f3804df1c4a424 1-30
 ---
 {
   "schema_version": "authorship/3.0.0",
