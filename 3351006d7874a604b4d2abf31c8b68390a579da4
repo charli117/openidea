@@ -1,0 +1,83 @@
+src-tauri/src/commands/plugin.rs
+  a8a264ebbecd03c1 115,301,306
+src-tauri/src/lib.rs
+  a8a264ebbecd03c1 9,54-55,70-79,83-84,112,134-135
+src-tauri/src/windows.rs
+  b6f3804df1c4a424 1635-1636,1660
+src-tauri/tests/packaged_startup.rs
+  87990975e9448f01 3,8-13,19
+  a8a264ebbecd03c1 1-2,4-7,14-18,20-24
+  b6f3804df1c4a424 25
+src/bindings.ts
+  a8a264ebbecd03c1 1104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.8.3",
+  "base_commit_sha": "3351006d7874a604b4d2abf31c8b68390a579da4",
+  "prompts": {
+    "87990975e9448f01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e168e69c-534f-4d10-9d33-a1bc69ad864c",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 8,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/5ec1b0500e7b44315d8dde6c695f965e031b38662d4fd767359635e269ae3c48",
+      "token_usage": {
+        "input_tokens": 1400816,
+        "output_tokens": 485544,
+        "cache_read_tokens": 150151552,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    },
+    "a8a264ebbecd03c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e339484-3aab-43c2-8add-392f439d6b84",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 38,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f519c610def611ecb2a812c32057fbb172c515e10ca52ce343d4b591d8bed8c9",
+      "token_usage": {
+        "input_tokens": 2289688,
+        "output_tokens": 251491,
+        "cache_read_tokens": 85865472,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    },
+    "b6f3804df1c4a424": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be03-6ddd-7301-a7c3-3da1fe0eddcf",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 4,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f00cdfe38c96eff282f564236d743b38183710bc921b99d8f757cb3d834f2d5a",
+      "token_usage": {
+        "input_tokens": 14210,
+        "output_tokens": 14148,
+        "cache_read_tokens": 1906801,
+        "cache_creation_tokens": null,
+        "total_cost": null
+      }
+    }
+  }
+}
