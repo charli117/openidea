@@ -1,0 +1,141 @@
+plugins/README.md
+  52b3e640abf13a2d 161
+src/features/plugins/editorAnnotations.ts
+  b6f3804df1c4a424 318,334,444,464,468-477,535,573,581,613-616,625-626,646,665,667,670-671,698,710,713-719,728,730
+  a8a264ebbecd03c1 1-317,319-333,336-368,370-443,445-463,465-467,478-534,536-572,574,578-580,582-599,601-612,617-624,628-645,647-664,668-669,672-697,699-708,720-727,729,731-766
+  7bf4b5a94f64b80d 335,369,600,627,709,711-712
+  52b3e640abf13a2d 666
+  87990975e9448f01 575-577
+src/platform/locales/text/en.json
+  a8a264ebbecd03c1 682-685
+crates/ide-host/src/plugins/mod.rs
+  7bf4b5a94f64b80d 1315-1322,1325-1326
+  b6f3804df1c4a424 1327
+crates/ide-host/src/plugins/ui_points.rs
+  a8a264ebbecd03c1 70,661-691
+src/platform/locales/text/zh.json
+  87990975e9448f01 7023-7024
+  a8a264ebbecd03c1 7025-7026
+crates/ide-host/src/plugins/providers.rs
+  52b3e640abf13a2d 257,266-269
+src/features/plugins/index.ts
+  a8a264ebbecd03c1 33,156
+src/features/plugins/__tests__/commandBackend.test.ts
+  52b3e640abf13a2d 68-77,87-96
+crates/ide-plugin/src/runtime.rs
+  a8a264ebbecd03c1 1581-1586
+src/features/plugins/editorAnnotations.test.ts
+  b6f3804df1c4a424 3,449-452,454-479,482-483,485-510,512-528,530-544,852-853,860-872,881
+  a8a264ebbecd03c1 1-2,4-448,480-481,545-562,564-851,854-859,873-880,882-919
+  52b3e640abf13a2d 453,484,511,529,563
+crates/ide-host/src/plugins/points.rs
+  a8a264ebbecd03c1 91
+crates/ide-plugin/src/wit_host.rs
+  a8a264ebbecd03c1 245
+crates/ide-host/tests/plugins.rs
+  a8a264ebbecd03c1 6073-6199
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.8.3",
+  "base_commit_sha": "cc07c2f549b98a6deb3b9f827faf89c13aac5c97",
+  "prompts": {
+    "52b3e640abf13a2d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cc17fcce-b1d1-448c-ad83-54834b712955",
+        "model": "deepseek/deepseek-flash"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 86512,
+      "total_deletions": 86232,
+      "accepted_lines": 281,
+      "overriden_lines": 0
+    },
+    "7bf4b5a94f64b80d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0ff8b77e-b0d9-49d3-bc1e-a8c0ec5c32ef",
+        "model": "deepseek/deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 11,
+      "accepted_lines": 17,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/8bdabff66b6005866a173fde74824bb0fdeeeea7e31516b93f14cb420cac8477",
+      "token_usage": {
+        "input_tokens": 241732,
+        "output_tokens": 73682,
+        "cache_read_tokens": 5462646,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    },
+    "87990975e9448f01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e168e69c-534f-4d10-9d33-a1bc69ad864c",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 27,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/5ec1b0500e7b44315d8dde6c695f965e031b38662d4fd767359635e269ae3c48",
+      "token_usage": {
+        "input_tokens": 1400816,
+        "output_tokens": 485544,
+        "cache_read_tokens": 150151552,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    },
+    "a8a264ebbecd03c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e339484-3aab-43c2-8add-392f439d6b84",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 1700,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f519c610def611ecb2a812c32057fbb172c515e10ca52ce343d4b591d8bed8c9",
+      "token_usage": {
+        "input_tokens": 2289688,
+        "output_tokens": 251491,
+        "cache_read_tokens": 85865472,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    },
+    "b6f3804df1c4a424": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be03-6ddd-7301-a7c3-3da1fe0eddcf",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 254,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f00cdfe38c96eff282f564236d743b38183710bc921b99d8f757cb3d834f2d5a",
+      "token_usage": {
+        "input_tokens": 14210,
+        "output_tokens": 14148,
+        "cache_read_tokens": 1906801,
+        "cache_creation_tokens": null,
+        "total_cost": null
+      }
+    }
+  }
+}
