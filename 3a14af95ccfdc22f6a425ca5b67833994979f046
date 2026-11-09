@@ -1,8 +1,5 @@
 src/features/plugins/settings.tsx
-  a8a264ebbecd03c1 225-226
-  52b3e640abf13a2d 227
-src/features/plugins/__tests__/settings.test.tsx
-  52b3e640abf13a2d 58-65,289-301
+  a8a264ebbecd03c1 225-227
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -17,14 +14,14 @@ src/features/plugins/__tests__/settings.test.tsx
       },
       "human_author": null,
       "messages": [],
-      "total_additions": 674,
-      "total_deletions": 1,
-      "accepted_lines": 674,
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 257,
       "overriden_lines": 0,
       "token_usage": {
-        "input_tokens": 653236,
-        "output_tokens": 417417,
-        "cache_read_tokens": 53827200,
+        "input_tokens": 644953,
+        "output_tokens": 407792,
+        "cache_read_tokens": 49486080,
         "cache_creation_tokens": 0,
         "total_cost": null
       }
@@ -39,7 +36,7 @@ src/features/plugins/__tests__/settings.test.tsx
       "messages": [],
       "total_additions": 0,
       "total_deletions": 0,
-      "accepted_lines": 2,
+      "accepted_lines": 3,
       "overriden_lines": 0,
       "messages_url": "https://gitai.gz.cvte.cn/cas/f519c610def611ecb2a812c32057fbb172c515e10ca52ce343d4b591d8bed8c9",
       "token_usage": {
