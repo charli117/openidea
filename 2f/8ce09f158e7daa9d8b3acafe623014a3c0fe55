@@ -1,34 +1,34 @@
+src/features/plugins/index.ts
+  a8a264ebbecd03c1 32,152
+src/platform/locales/text/en.json
+  a8a264ebbecd03c1 564-568
 src/features/plugins/editorAnnotations.test.ts
   a8a264ebbecd03c1 1-2,4-448,480-481,545-562,564-851,854-859,873-880,882-919
   b6f3804df1c4a424 3,449-479,482-544,563,852-853,860-872,881
+crates/ide-host/tests/plugins.rs
+  a8a264ebbecd03c1 5645-5771
+src/platform/locales/text/zh.json
+  a8a264ebbecd03c1 6907,6910-6911
+  87990975e9448f01 6908-6909
+crates/ide-plugin/src/runtime.rs
+  a8a264ebbecd03c1 1189-1194
+crates/ide-host/src/plugins/ui_points.rs
+  a8a264ebbecd03c1 70,648-678
+plugins/README.md
+  a8a264ebbecd03c1 140-158
 crates/ide-plugin/src/wit_host.rs
   a8a264ebbecd03c1 219
+crates/ide-host/src/plugins/mod.rs
+  b6f3804df1c4a424 19,86-88,1227-1238,1249,1375-1388,1423-1425,1432-1439,1252
+  a8a264ebbecd03c1 1253-1254
+  7bf4b5a94f64b80d 1240-1247,1250-1251
 src/features/plugins/editorAnnotations.ts
   a8a264ebbecd03c1 1-317,319-333,336-368,370-443,445-463,465-467,478-534,536-572,574,578-580,582-599,601-612,617-624,628-645,647-664,667-668,671-696,698-707,719-726,728,730-765
   b6f3804df1c4a424 318,334,444,464,468-477,535,573,581,613-616,625-626,646,665-666,669-670,697,709,712-718,727,729
   7bf4b5a94f64b80d 335,369,600,627,708,710-711
   87990975e9448f01 575-577
-crates/ide-host/src/plugins/mod.rs
-  b6f3804df1c4a424 19,86-88,1227-1238,1249,1375-1388,1423-1425,1432-1439,1252
-  a8a264ebbecd03c1 1253-1254
-  7bf4b5a94f64b80d 1240-1247,1250-1251
-crates/ide-host/src/plugins/ui_points.rs
-  a8a264ebbecd03c1 70,648-678
-src/platform/locales/text/en.json
-  a8a264ebbecd03c1 564-568
-src/platform/locales/text/zh.json
-  a8a264ebbecd03c1 6907,6910-6911
-  87990975e9448f01 6908-6909
 crates/ide-host/src/plugins/points.rs
   a8a264ebbecd03c1 69
-crates/ide-plugin/src/runtime.rs
-  a8a264ebbecd03c1 1189-1194
-src/features/plugins/index.ts
-  a8a264ebbecd03c1 32,152
-crates/ide-host/tests/plugins.rs
-  a8a264ebbecd03c1 5645-5771
-plugins/README.md
-  a8a264ebbecd03c1 140-158
 ---
 {
   "schema_version": "authorship/3.0.0",

@@ -1,15 +1,15 @@
-src/bindings.ts
-  a8a264ebbecd03c1 1095
-src-tauri/src/commands/plugin.rs
-  a8a264ebbecd03c1 114,300,305
-src-tauri/src/windows.rs
-  b6f3804df1c4a424 1510-1511,1535
-src-tauri/src/lib.rs
-  a8a264ebbecd03c1 9,54-55,70-79,83-84,112,134-135
 src-tauri/tests/packaged_startup.rs
   a8a264ebbecd03c1 1-2,4-7,14-18,20-24
   87990975e9448f01 3,8-13,19
   b6f3804df1c4a424 25
+src-tauri/src/commands/plugin.rs
+  a8a264ebbecd03c1 114,300,305
+src-tauri/src/lib.rs
+  a8a264ebbecd03c1 9,54-55,70-79,83-84,112,134-135
+src/bindings.ts
+  a8a264ebbecd03c1 1095
+src-tauri/src/windows.rs
+  b6f3804df1c4a424 1510-1511,1535
 ---
 {
   "schema_version": "authorship/3.0.0",
