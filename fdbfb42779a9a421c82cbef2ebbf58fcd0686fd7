@@ -1,0 +1,31 @@
+.gitignore
+  7bf4b5a94f64b80d 46-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.8.3",
+  "base_commit_sha": "fdbfb42779a9a421c82cbef2ebbf58fcd0686fd7",
+  "prompts": {
+    "7bf4b5a94f64b80d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0ff8b77e-b0d9-49d3-bc1e-a8c0ec5c32ef",
+        "model": "deepseek/deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 0,
+      "accepted_lines": 145,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f01c18481c95fb4e9280460d8f8d9b95e6635ea5e55ff0fb9cb80307240c755d",
+      "token_usage": {
+        "input_tokens": 231996,
+        "output_tokens": 67664,
+        "cache_read_tokens": 4410230,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
