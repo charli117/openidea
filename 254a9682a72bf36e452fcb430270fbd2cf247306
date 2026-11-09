@@ -1,42 +1,29 @@
+crates/ide-host/src/plugins/mod.rs
+  a8a264ebbecd03c1 1317-1318
+  b6f3804df1c4a424 20,1302-1313,1316,1450-1452,1487-1489,1500-1503
+src-tauri/src/commands/plugin.rs
+  b6f3804df1c4a424 343,355
+src/bindings.ts
+  b6f3804df1c4a424 1115
+crates/ide-host/src/plugins/remote_host.rs
+  b6f3804df1c4a424 459-460
+crates/ide-host/src/plugins/commands.rs
+  b6f3804df1c4a424 1-30
 src/features/plugins/__tests__/commandBackend.test.ts
   87990975e9448f01 12,33-34,40-52,54-59
   b6f3804df1c4a424 1-11,13-32,35-39,53,60-109
-src-tauri/src/commands/plugin.rs
-  b6f3804df1c4a424 343,355
 crates/ide-host/tests/remote_plugins.rs
-  7bf4b5a94f64b80d 907-911,945
   b6f3804df1c4a424 879-906,912-944,946-1015
-crates/ide-host/src/plugins/commands.rs
-  b6f3804df1c4a424 1-30
+  7bf4b5a94f64b80d 907-911,945
 src/features/plugins/backend.ts
   87990975e9448f01 78,233-257,259,261
   b6f3804df1c4a424 79,230-232,258,260,262-263
-crates/ide-host/src/plugins/remote_host.rs
-  b6f3804df1c4a424 459-460
-crates/ide-host/src/plugins/mod.rs
-  b6f3804df1c4a424 20,1302-1313,1316,1450-1452,1487-1489,1500-1503
-  a8a264ebbecd03c1 1317-1318
-src/bindings.ts
-  b6f3804df1c4a424 1115
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "development:1.8.3",
   "base_commit_sha": "254a9682a72bf36e452fcb430270fbd2cf247306",
   "prompts": {
-    "52b3e640abf13a2d": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "cc17fcce-b1d1-448c-ad83-54834b712955",
-        "model": "deepseek/deepseek-flash"
-      },
-      "human_author": null,
-      "messages": [],
-      "total_additions": 5,
-      "total_deletions": 1,
-      "accepted_lines": 5,
-      "overriden_lines": 0
-    },
     "7bf4b5a94f64b80d": {
       "agent_id": {
         "tool": "claude",
@@ -110,7 +97,7 @@ src/bindings.ts
       "messages": [],
       "total_additions": 0,
       "total_deletions": 0,
-      "accepted_lines": 283,
+      "accepted_lines": 284,
       "overriden_lines": 0,
       "messages_url": "https://gitai.gz.cvte.cn/cas/f00cdfe38c96eff282f564236d743b38183710bc921b99d8f757cb3d834f2d5a",
       "token_usage": {
