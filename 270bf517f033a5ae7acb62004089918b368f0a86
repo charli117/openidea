@@ -1,0 +1,112 @@
+.agents/skills/commit/SKILL.md
+  7bf4b5a94f64b80d 13-270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.8.3",
+  "base_commit_sha": "270bf517f033a5ae7acb62004089918b368f0a86",
+  "prompts": {
+    "7bf4b5a94f64b80d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0ff8b77e-b0d9-49d3-bc1e-a8c0ec5c32ef",
+        "model": "deepseek/deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 31,
+      "total_deletions": 14,
+      "accepted_lines": 31,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/09b4d87d831ef2f358b9a34aa1e53e687d821d5ea442ac11a25b845482fff822",
+      "token_usage": {
+        "input_tokens": 229864,
+        "output_tokens": 67142,
+        "cache_read_tokens": 4243830,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    },
+    "87990975e9448f01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e168e69c-534f-4d10-9d33-a1bc69ad864c",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 65,
+      "total_deletions": 84,
+      "accepted_lines": 57,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/3d7094da9e82a30c8be42071dfefa64232dcfd91fe4dc5a600f49fb2b77b7a64",
+      "token_usage": {
+        "input_tokens": 1400816,
+        "output_tokens": 485544,
+        "cache_read_tokens": 150151552,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    },
+    "a8a264ebbecd03c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e339484-3aab-43c2-8add-392f439d6b84",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 2702,
+      "total_deletions": 836,
+      "accepted_lines": 1846,
+      "overriden_lines": 7,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/6716e3be904986934e5a941c968cf42056bf3bb9d7dec69e14d84907f40e3fc1",
+      "token_usage": {
+        "input_tokens": 2289688,
+        "output_tokens": 251491,
+        "cache_read_tokens": 85865472,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    },
+    "b6f3804df1c4a424": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be03-6ddd-7301-a7c3-3da1fe0eddcf",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 2532,
+      "total_deletions": 89,
+      "accepted_lines": 2418,
+      "overriden_lines": 6,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/3584e0e2abc52c2b9ab07d6751cd3d748939d8419a8d748e5d44cee7ef339b12",
+      "token_usage": {
+        "input_tokens": 14210,
+        "output_tokens": 14148,
+        "cache_read_tokens": 1906801,
+        "cache_creation_tokens": null,
+        "total_cost": null
+      }
+    },
+    "fbd0a7434a0e56c7": {
+      "agent_id": {
+        "tool": "known_human",
+        "id": "known_human_session",
+        "model": "unknown"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 51,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_3b1b2e873ac26d": {
+      "author": "罗威"
+    }
+  }
+}
