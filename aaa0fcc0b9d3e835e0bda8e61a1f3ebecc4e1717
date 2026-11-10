@@ -1,0 +1,65 @@
+crates/ide-host/src/plugins/ui_points.rs
+  dd34cad4c470e403 70,661-689
+crates/ide-plugin/tests/fixtures/annotations/dist/plugin.wasm.sources
+  dd34cad4c470e403 1
+crates/ide-host/src/plugins/mod.rs
+  dd34cad4c470e403 1384-1391,1394-1396
+crates/ide-host/src/plugins/points.rs
+  dd34cad4c470e403 91
+src/platform/locales/text/en.json
+  dd34cad4c470e403 978-981
+crates/ide-plugin/tests/fixtures/annotations/Cargo.toml
+  dd34cad4c470e403 1-22
+crates/ide-plugin/tests/api_compat.rs
+  dd34cad4c470e403 39
+src/features/plugins/editorAnnotations.ts
+  dd34cad4c470e403 1-766
+src/platform/locales/text/zh.json
+  dd34cad4c470e403 7312-7315
+crates/ide-plugin/src/wit_host.rs
+  dd34cad4c470e403 248
+src/features/plugins/index.ts
+  dd34cad4c470e403 33,156
+crates/ide-host/tests/plugins.rs
+  dd34cad4c470e403 6338-6501
+plugins/README.md
+  dd34cad4c470e403 160,449-452,860-920
+src/features/plugins/__tests__/commandBackend.test.ts
+  dd34cad4c470e403 68-77,87-96
+src/features/plugins/editorAnnotations.test.ts
+  dd34cad4c470e403 1-919
+crates/ide-plugin/tests/fixtures/annotations/src/lib.rs
+  dd34cad4c470e403 1-53
+crates/ide-plugin/tests/fixtures/annotations/plugin.toml
+  dd34cad4c470e403 1-27
+crates/ide-plugin/src/runtime.rs
+  dd34cad4c470e403 1662-1667
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "aaa0fcc0b9d3e835e0bda8e61a1f3ebecc4e1717",
+  "prompts": {
+    "dd34cad4c470e403": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "966da75c-92d5-4710-befd-6a839968e907",
+        "model": "deepseek/deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 2113,
+      "total_deletions": 10,
+      "accepted_lines": 2105,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/29357a29abd63af2f900ea2bc604f40e5e10351f7540d473dc8c9f03c849b85d",
+      "token_usage": {
+        "input_tokens": 981657,
+        "output_tokens": 242200,
+        "cache_read_tokens": 44564992,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
