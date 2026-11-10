@@ -1,0 +1,33 @@
+src/features/plugins/__tests__/settings.test.tsx
+  dd34cad4c470e403 58-65,289-300
+src/features/plugins/settings.tsx
+  dd34cad4c470e403 225-227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "e720469c6fdcc1bad00de5b62b3e1e26be8cc36c",
+  "prompts": {
+    "dd34cad4c470e403": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "966da75c-92d5-4710-befd-6a839968e907",
+        "model": "deepseek/deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 24,
+      "total_deletions": 1,
+      "accepted_lines": 24,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/0aef86bd34baf3bdb89029bc5396fd32a38fb9c74d255d9248cb83100a8b66d4",
+      "token_usage": {
+        "input_tokens": 827585,
+        "output_tokens": 123680,
+        "cache_read_tokens": 9319808,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
