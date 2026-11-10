@@ -1,0 +1,39 @@
+src/bindings.ts
+  dd34cad4c470e403 1149
+src-tauri/src/windows.rs
+  dd34cad4c470e403 1640-1641,1665
+src-tauri/tests/packaged_startup.rs
+  dd34cad4c470e403 1-25
+src-tauri/src/commands/plugin.rs
+  dd34cad4c470e403 115,309,314
+src-tauri/src/lib.rs
+  dd34cad4c470e403 9,56-57,72-81,85-86,118,140-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "d59abf958c27da149a916a5493bb4faf9d8d1b69",
+  "prompts": {
+    "dd34cad4c470e403": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "966da75c-92d5-4710-befd-6a839968e907",
+        "model": "deepseek/deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 69,
+      "total_deletions": 25,
+      "accepted_lines": 61,
+      "overriden_lines": 1,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/2a3c59e5130ca2bbd7227ac07c277afc6f696a9d022582795edaee361c378386",
+      "token_usage": {
+        "input_tokens": 1029391,
+        "output_tokens": 331687,
+        "cache_read_tokens": 77870592,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
