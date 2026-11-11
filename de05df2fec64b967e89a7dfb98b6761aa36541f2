@@ -1,0 +1,29 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "de05df2fec64b967e89a7dfb98b6761aa36541f2",
+  "prompts": {
+    "2c8b2bb7a75255ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f25e4d95-caec-4102-8686-f3903111e728",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 47,
+      "total_deletions": 0,
+      "accepted_lines": 47,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/69e0500a85ad1ca1021cd04f7ac76d942976eedbebeed18d2aab304ba64ccfc6",
+      "token_usage": {
+        "input_tokens": 851237,
+        "output_tokens": 443942,
+        "cache_read_tokens": 130129408,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
