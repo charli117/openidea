@@ -1,0 +1,787 @@
+crates/ide-host/src/ops/debug.rs
+  2c8b2bb7a75255ff 12,96,99-101,105-156,440-484,613-624,669-718
+src/ui/brands/php.svg
+  2c8b2bb7a75255ff 1
+crates/ide-dap/src/lib.rs
+  2c8b2bb7a75255ff 16,25,130-135,312,577-578,582-589,678,682-686,1006,1013-1030,1043-1046,1050,1145-1146,1379-1381,1392-1393,1522,1524,1526,1566,1568-1569,1667,1672,1706-1712,1714-1753
+src/features/debugger/__tests__/instancesPane.test.tsx
+  2c8b2bb7a75255ff 1-353
+generators/empty.toml
+  2c8b2bb7a75255ff 1-5
+crates/ide-sdk/src/apply.rs
+  2c8b2bb7a75255ff 1157
+src/ui/brands/django.svg
+  2c8b2bb7a75255ff 1
+crates/ide-sdk/src/java.rs
+  2c8b2bb7a75255ff 67-70,929-955,1541-1561,1563,1568,1574,1580,1583,1589,1591,1595,1643-1653
+src/features/terminal/FindBar.tsx
+  2c8b2bb7a75255ff 23-27
+src/features/settings/model/behaviorSchema.ts
+  2c8b2bb7a75255ff 43-44,72-75,116,134-135,183,210-211
+src-tauri/src/commands/build.rs
+  2c8b2bb7a75255ff 176-201
+languages/powershell.toml
+  2c8b2bb7a75255ff 14
+crates/ide-language/src/lib.rs
+  2c8b2bb7a75255ff 120-123
+src/features/debugger/__tests__/hotswap.test.ts
+  2c8b2bb7a75255ff 77
+generators/express.toml
+  2c8b2bb7a75255ff 1-77
+generators/flask.toml
+  2c8b2bb7a75255ff 1-55
+crates/ide-dap/src/jvm_memory/fallback.rs
+  2c8b2bb7a75255ff 1-92
+src/platform/locales/textCatalog.test.ts
+  2c8b2bb7a75255ff 28,601
+crates/ide-search/src/engine.rs
+  2c8b2bb7a75255ff 9-10,36,99,114,283,285-293,305-306,309,311,338-365,392-411,500-595
+src/bindings.ts
+  2c8b2bb7a75255ff 11-17,840-847,906-919,1104-1110,1138-1145,2157-2158,2577-2581,3124-3132,3549-3558,3587-3589,3650-3660,4429-4448,4775-4793,5019-5033,5729-5755,5761-5818,5825-5832,5835-5838,8013-8022,8325-8330
+src/features/terminal/Terminal.module.css
+  2c8b2bb7a75255ff 133-135
+src/features/vcs/rebasePlan.ts
+  2c8b2bb7a75255ff 46-56
+crates/ide-jvm-inspect/src/lib.rs
+  2c8b2bb7a75255ff 1-156
+src/platform/boot.test.ts
+  2c8b2bb7a75255ff 98-118
+src/features/plugins/__tests__/commandBackend.test.ts
+  2c8b2bb7a75255ff 68,78
+src-tauri/src/commands/mod.rs
+  2c8b2bb7a75255ff 25,41,71-72,417,447-450,497,513-516
+src/features/vcs/gitMenuDialogs.tsx
+  2c8b2bb7a75255ff 696
+crates/ide-jvm-inspect/src/names.rs
+  2c8b2bb7a75255ff 1-109
+e2e/agentScroll.spec.ts
+  2c8b2bb7a75255ff 86-88
+src/features/vcs/__tests__/gitOps.test.ts
+  2c8b2bb7a75255ff 29,135-143
+src/platform/javaLaunch.ts
+  2c8b2bb7a75255ff 132-139
+src/features/debugger/actions.ts
+  2c8b2bb7a75255ff 33-35,50,461-466,468,473-475,506-578
+crates/ide-dap/Cargo.toml
+  2c8b2bb7a75255ff 14-16,23
+src/features/coverage/reports.tsx
+  2c8b2bb7a75255ff 30
+src/platform/locales/text/en.json
+  2c8b2bb7a75255ff 2-42,48,654-655,1037-1209
+crates/ide-core/src/settings.rs
+  2c8b2bb7a75255ff 456-459,478-479,587-588,666,1582-1586
+crates/ide-scaffold/src/providers.rs
+  2c8b2bb7a75255ff 1-440
+crates/ide-jdwp/src/inspector/preview.rs
+  2c8b2bb7a75255ff 1-81
+src/features/vcs/RevisionBrowser.tsx
+  2c8b2bb7a75255ff 41
+crates/ide-jvm-attach/src/jvm.rs
+  2c8b2bb7a75255ff 1-116
+generators/micronaut.toml
+  2c8b2bb7a75255ff 1-32
+src/features/agents/ConfigPickers.test.tsx
+  2c8b2bb7a75255ff 138-170
+src/features/app/WorkspaceDialog.tsx
+  2c8b2bb7a75255ff 58
+src/features/index.ts
+  2c8b2bb7a75255ff 57,67
+src/features/search/find/FindInFiles.tsx
+  2c8b2bb7a75255ff 92
+src/platform/icls.test.ts
+  2c8b2bb7a75255ff 138-179
+src/editor/navigation/structureNav.ts
+  2c8b2bb7a75255ff 93-110
+src/features/settings/pages/tools.tsx
+  2c8b2bb7a75255ff 130
+crates/ide-jvm-attach/Cargo.toml
+  2c8b2bb7a75255ff 1-15
+crates/ide-jdwp/src/link/upstream.rs
+  2c8b2bb7a75255ff 1-163
+src/features/agents/Session.module.css
+  2c8b2bb7a75255ff 582-587,688-705,710-711,1571-1594
+src/ui/List.test.tsx
+  2c8b2bb7a75255ff 55-88
+crates/ide-jdwp/src/link/command.rs
+  2c8b2bb7a75255ff 1-196
+src/features/agents/selection.ts
+  2c8b2bb7a75255ff 1-6
+src-tauri/src/menu.rs
+  2c8b2bb7a75255ff 868
+src-tauri/src/commands/file_dialog.rs
+  2c8b2bb7a75255ff 1-224
+docs/en/guide/agents.mdx
+  2c8b2bb7a75255ff 23-24
+crates/ide-host/Cargo.toml
+  2c8b2bb7a75255ff 30,53
+src/ui/brands/sveltekit.svg
+  2c8b2bb7a75255ff 1
+src/features/run/contextRun.test.ts
+  2c8b2bb7a75255ff 6,202-220
+src/features/vcs/GitLog.tsx
+  2c8b2bb7a75255ff 1168-1169,1212-1216
+generators/symfony.toml
+  2c8b2bb7a75255ff 1-34
+java/jvm-inspect/plugin.xml
+  2c8b2bb7a75255ff 1-12
+generators/nestjs.toml
+  2c8b2bb7a75255ff 1-51
+src/ui/brands/phoenix.svg
+  2c8b2bb7a75255ff 1
+src/features/vcs/__tests__/diffToolbar.test.tsx
+  2c8b2bb7a75255ff 407-455
+src/features/agents/registry.ts
+  2c8b2bb7a75255ff 2
+java/jvm-inspect/src/ai/openidea/jvminspect/Handles.java
+  2c8b2bb7a75255ff 1-42
+crates/ide-dap/src/jvm_memory/snapshot.rs
+  2c8b2bb7a75255ff 1-196
+java/jvm-inspect/tests/SelfTest.java
+  2c8b2bb7a75255ff 1-164
+src/editor/core/cm/selectionMarks.ts
+  2c8b2bb7a75255ff 40-46,51
+src/features/debugger/state.ts
+  2c8b2bb7a75255ff 19,72-73,77-78,205,300,369-370,637-638,1109,1161-1165
+crates/ide-lsp/tests/real_servers.rs
+  2c8b2bb7a75255ff 413,685,737
+src/features/run/gradleRun.test.ts
+  2c8b2bb7a75255ff 6,16,21,163-191
+src/features/build/index.ts
+  2c8b2bb7a75255ff 17,89-102,148-158
+crates/ide-build/src/compile/parse.rs
+  2c8b2bb7a75255ff 10
+src/features/vcs/shelf.tsx
+  2c8b2bb7a75255ff 389
+crates/ide-scaffold/src/engine/tests.rs
+  2c8b2bb7a75255ff 1-239
+src/ui/brands/express.svg
+  2c8b2bb7a75255ff 1
+crates/ide-jdwp/tests/real_jvm.rs
+  2c8b2bb7a75255ff 1-422
+generators/nuxt.toml
+  2c8b2bb7a75255ff 1-42
+src/platform/fonts.test.ts
+  2c8b2bb7a75255ff 2,50-89
+src/features/app/newProject.module.css
+  2c8b2bb7a75255ff 1-198
+crates/ide-host/src/ops/mod.rs
+  2c8b2bb7a75255ff 29,82
+crates/ide-core/src/output_encoding.rs
+  2c8b2bb7a75255ff 24-49
+crates/ide-lsp/src/jdtls.rs
+  2c8b2bb7a75255ff 24,1082-1090
+src/features/whats-new/index.ts
+  2c8b2bb7a75255ff 1-35
+crates/ide-scaffold/Cargo.toml
+  2c8b2bb7a75255ff 1-20
+src/features/debugger/__tests__/memoryState.test.ts
+  2c8b2bb7a75255ff 1-140
+src/features/debugger/memory/InstancesPane.tsx
+  2c8b2bb7a75255ff 1-256
+crates/ide-core/src/event.rs
+  2c8b2bb7a75255ff 276-296,318-332
+crates/ide-agent/src/provider.rs
+  2c8b2bb7a75255ff 62-63,414-451
+crates/ide-jdwp/src/link/write_tests.rs
+  2c8b2bb7a75255ff 1-211
+src/features/welcome/ProjectPopup.tsx
+  2c8b2bb7a75255ff 17
+src/features/build/build.test.tsx
+  2c8b2bb7a75255ff 33-42,119-126,412-444
+src/features/app/updates.tsx
+  2c8b2bb7a75255ff 10,24-25,55,59,154-161,174,177-179,202,204,208,252,262-263,272-273
+src/features/agents/loginHint.test.ts
+  2c8b2bb7a75255ff 28-35
+java/jvm-inspect/src/ai/openidea/jvminspect/VmSelector.java
+  2c8b2bb7a75255ff 1-67
+src/features/debugger/__tests__/memoryValues.test.ts
+  2c8b2bb7a75255ff 1-50
+THIRD_PARTY_LICENSES.md
+  2c8b2bb7a75255ff 3,5,7
+crates/ide-jdwp/src/inspector/cache.rs
+  2c8b2bb7a75255ff 1-29
+src/features/debugger/ui/DebugToolWindow.tsx
+  2c8b2bb7a75255ff 5,27,42,49,102,140,153,157,161-163,184,240-241
+generators/kotlin.toml
+  2c8b2bb7a75255ff 1-189
+src/platform/__fixtures__/colorSchemes/webstorm-darcula.icls
+  2c8b2bb7a75255ff 1-19
+src/features/build/store.ts
+  2c8b2bb7a75255ff 46-51,61-65,163-206,231,332-333
+src/features/vcs/rebase.tsx
+  2c8b2bb7a75255ff 7,27,37,49-52,56-85,93-94,154-160
+crates/ide-jvm-inspect/Cargo.toml
+  2c8b2bb7a75255ff 1-15
+src/ui/brands/symfony.svg
+  2c8b2bb7a75255ff 1
+crates/ide-jdwp/src/inspector/lookup.rs
+  2c8b2bb7a75255ff 1-109
+generators/swift.toml
+  2c8b2bb7a75255ff 1-26
+src/features/settings/pages/ssh.tsx
+  2c8b2bb7a75255ff 106
+src/ui/openidea/agents/qoder.svg
+  2c8b2bb7a75255ff 1-4
+src/features/run/gradleRun.ts
+  2c8b2bb7a75255ff 21-22
+src/features/analysis/dialogs.tsx
+  2c8b2bb7a75255ff 43
+src/features/debugger/index.ts
+  2c8b2bb7a75255ff 40-41,112-119
+src/features/database/SourceDialog.tsx
+  2c8b2bb7a75255ff 178,387-388,492,707,932
+src/features/terminal/terminal.test.ts
+  2c8b2bb7a75255ff 279-288
+crates/ide-scaffold/src/catalog.rs
+  2c8b2bb7a75255ff 1-345
+crates/ide-jdwp/Cargo.toml
+  2c8b2bb7a75255ff 1-16
+crates/ide-jvm-attach/src/socket.rs
+  2c8b2bb7a75255ff 1-543
+src/features/agents/model.ts
+  2c8b2bb7a75255ff 56-57
+crates/ide-lsp/src/jdtls/jvm_inspect.rs
+  2c8b2bb7a75255ff 1-136
+src/features/app/NewProject.tsx
+  2c8b2bb7a75255ff 2-4,7-8,10-21,23-25,27,41,63-82,84-89,93-99,110-168,171-176,180,191-207,209-223,225-226,230-231,237,239,243-244,246-250,252-272,274-480,482-536
+generators/elixir.toml
+  2c8b2bb7a75255ff 1-27
+src/platform/dialog.ts
+  2c8b2bb7a75255ff 1-66
+crates/ide-jdwp/src/codec.rs
+  2c8b2bb7a75255ff 1-320
+src/ui/brands/java.svg
+  2c8b2bb7a75255ff 1
+src/features/debugger/memory/rows.ts
+  2c8b2bb7a75255ff 1-66
+crates/ide-search/src/lib.rs
+  2c8b2bb7a75255ff 188-205,229,239,257
+crates/ide-search/tests/search.rs
+  2c8b2bb7a75255ff 3-5,657-665,735-798
+java/jvm-inspect/README.md
+  2c8b2bb7a75255ff 1-101
+java/jvm-inspect/src/ai/openidea/jvminspect/ConnectedVms.java
+  2c8b2bb7a75255ff 1-72
+smoke/debug.test.ts
+  2c8b2bb7a75255ff 24,48-51,94-95,103-105,294-333
+src/ui/brands/elixir.svg
+  2c8b2bb7a75255ff 1
+src/ui/brands/fastapi.svg
+  2c8b2bb7a75255ff 1
+generators/fastapi.toml
+  2c8b2bb7a75255ff 1-56
+src/features/viewers/markdown/mermaidTools.ts
+  2c8b2bb7a75255ff 159
+src/platform/clientSettings.ts
+  2c8b2bb7a75255ff 18-19
+src/ui/brands/zig.svg
+  2c8b2bb7a75255ff 1
+src/ui/brands/nextjs.svg
+  2c8b2bb7a75255ff 1
+crates/ide-sdk/src/tests.rs
+  2c8b2bb7a75255ff 29
+src/features/search/bookmarks/gutter.ts
+  2c8b2bb7a75255ff 176-177
+src/features/build-tools/store.ts
+  2c8b2bb7a75255ff 337,371
+generators/html.toml
+  2c8b2bb7a75255ff 1-39
+docs/en/guide/vcs.mdx
+  2c8b2bb7a75255ff 184
+generators/cpp.toml
+  2c8b2bb7a75255ff 1-88
+crates/ide-jdwp/src/inspector/fake.rs
+  2c8b2bb7a75255ff 1-529
+src/features/whats-new/WhatsNew.tsx
+  2c8b2bb7a75255ff 1-97
+crates/ide-dap/src/jvm_memory/mod.rs
+  2c8b2bb7a75255ff 1-336
+src/features/debugger/memory/values.ts
+  2c8b2bb7a75255ff 1-37
+src/ui/brands/ruby.svg
+  2c8b2bb7a75255ff 1
+src/features/debugger/__tests__/memoryRows.test.ts
+  2c8b2bb7a75255ff 1-97
+src/ui/brands/rails.svg
+  2c8b2bb7a75255ff 1
+src/features/agents/reveal.ts
+  2c8b2bb7a75255ff 14-18,28-38,40-57,77,79,81,85-86
+src/platform/fonts.ts
+  2c8b2bb7a75255ff 129-162
+src/features/app/__tests__/updates.test.ts
+  2c8b2bb7a75255ff 37-39,76,124,131-149,177
+crates/ide-dap/src/jvm_memory/inspect.rs
+  2c8b2bb7a75255ff 1-251
+src/features/debugger/ui/useActionEnabled.ts
+  2c8b2bb7a75255ff 1-9
+src/features/terminal/session.ts
+  2c8b2bb7a75255ff 284-311,454-455
+java/jvm-inspect/src/ai/openidea/jvminspect/RequestTimeout.java
+  2c8b2bb7a75255ff 1-53
+src/ui/brands/python.svg
+  2c8b2bb7a75255ff 1
+crates/ide-dap/src/tests.rs
+  2c8b2bb7a75255ff 3-4,125-132,157-160,227-229,361-363,395,401,455-456,1379-1408,1476,1489,1491,1694,1711,2063-2470
+src/features/database/nodes.ts
+  2c8b2bb7a75255ff 50
+crates/ide-host/src/ops/scaffold.rs
+  2c8b2bb7a75255ff 1-82
+src/ui/brands/haskell.svg
+  2c8b2bb7a75255ff 1
+src/ui/brands/ktor.svg
+  2c8b2bb7a75255ff 1
+crates/ide-tools/src/lib.rs
+  2c8b2bb7a75255ff 34-35
+crates/ide-jdwp/src/link/tests.rs
+  2c8b2bb7a75255ff 1-801
+src/features/run/gradleRun.gradle
+  2c8b2bb7a75255ff 23-27
+generators/laravel.toml
+  2c8b2bb7a75255ff 1-21
+src/platform/locales/text/zh.json
+  2c8b2bb7a75255ff 2-42,48,561-562,7032-7033,7373-7533
+src/editor/core/cm/selectionLayer.ts
+  2c8b2bb7a75255ff 45-49,55,60-65,67-85,219-239,281-288
+generators/php.toml
+  2c8b2bb7a75255ff 1-86
+crates/ide-jdwp/src/link/writer.rs
+  2c8b2bb7a75255ff 1-50
+src/features/database/DatabaseView.tsx
+  2c8b2bb7a75255ff 322-327,331-337
+src/ui/brands/node.svg
+  2c8b2bb7a75255ff 1
+e2e/terminal-ui.spec.ts
+  2c8b2bb7a75255ff 97-139
+src/ui/brands/astro.svg
+  2c8b2bb7a75255ff 1
+crates/ide-build/src/compile/mod.rs
+  2c8b2bb7a75255ff 8-9,11-15
+src/features/vcs/__tests__/commitPreviewDiff.test.tsx
+  2c8b2bb7a75255ff 249-303
+java/jvm-inspect/src/ai/openidea/jvminspect/Values.java
+  2c8b2bb7a75255ff 1-139
+generators/haskell.toml
+  2c8b2bb7a75255ff 1-26
+src/workbench/shellActions.ts
+  2c8b2bb7a75255ff 25
+crates/ide-scaffold/src/template.rs
+  2c8b2bb7a75255ff 1-161
+generators/java.toml
+  2c8b2bb7a75255ff 1-169
+java/jvm-inspect/MANIFEST.MF
+  2c8b2bb7a75255ff 1-9
+src/features/debugger/memory/instancesTree.ts
+  2c8b2bb7a75255ff 1-138
+src/ui/brands/go.svg
+  2c8b2bb7a75255ff 1
+src/features/run/ConsoleView.tsx
+  2c8b2bb7a75255ff 17-18,186-191,228,240,254,540-544,571,584,598
+crates/ide-jdwp/src/inspector/classes.rs
+  2c8b2bb7a75255ff 1-67
+crates/ide-jvm-attach/tests/real_jvm.rs
+  2c8b2bb7a75255ff 1-165
+src/ui/brands/cpp.svg
+  2c8b2bb7a75255ff 1
+src/features/debugger/memory/MemoryView.tsx
+  2c8b2bb7a75255ff 1-249
+crates/ide-host/src/ops/build.rs
+  2c8b2bb7a75255ff 541-569,616-660,730-733
+src/features/debugger/memory/MemoryView.module.css
+  2c8b2bb7a75255ff 1-216
+crates/ide-jdwp/src/link/state.rs
+  2c8b2bb7a75255ff 1-383
+src/features/debugger/memory/rowButtonKeys.ts
+  2c8b2bb7a75255ff 1-9
+src/features/run/contextRun.ts
+  2c8b2bb7a75255ff 35,142-149,383
+crates/ide-jdwp/src/link/suspend_tests.rs
+  2c8b2bb7a75255ff 1-142
+src/platform/locales/zh.json
+  2c8b2bb7a75255ff 86-91,118
+crates/ide-core/src/process.rs
+  2c8b2bb7a75255ff 75-143,802-825,1146-1163
+src/editor/navigation/implementationGutter.ts
+  2c8b2bb7a75255ff 49,175,177-186,188,196,217-298
+src/features/settings/pages/updates.tsx
+  2c8b2bb7a75255ff 73-78
+src/platform/locales/en.json
+  2c8b2bb7a75255ff 86-91,118
+java/jvm-inspect/tests/inspect.py
+  2c8b2bb7a75255ff 1-446
+crates/ide-dap/src/session.rs
+  2c8b2bb7a75255ff 8-9,67-75,89-103,105-187,236-239,247-252,254,415-418,698-700,704,706-716,1024-1036,1051,1085-1090,1131-1286
+public/boot.js
+  2c8b2bb7a75255ff 145,147-168
+generators/vite.toml
+  2c8b2bb7a75255ff 1-61
+src/editor/core/librarySources.ts
+  2c8b2bb7a75255ff 29
+src/features/agents/reveal.test.tsx
+  2c8b2bb7a75255ff 3,16-34,70-71,75-91
+crates/ide-host/src/ops/java.rs
+  2c8b2bb7a75255ff 57-58,60-65,89,158,162-167,227-233,310-319,336,343-359,361-362
+crates/ide-jdwp/src/inspector/fields.rs
+  2c8b2bb7a75255ff 1-48
+src/features/services/dialogs.tsx
+  2c8b2bb7a75255ff 93
+crates/ide-dap/src/jvm_memory/tests.rs
+  2c8b2bb7a75255ff 1-702
+src/features/debugger/__tests__/expressionCompletion.test.tsx
+  2c8b2bb7a75255ff 32
+crates/ide-lsp/tests/mock_server.rs
+  2c8b2bb7a75255ff 256,1689-1741,2714-2865
+src/features/agents/agents.test.ts
+  2c8b2bb7a75255ff 208-209
+crates/ide-dap/src/jvm_memory/test_support.rs
+  2c8b2bb7a75255ff 1-119
+src/features/database/ExportDialog.tsx
+  2c8b2bb7a75255ff 80
+crates/ide-jdwp/src/ids.rs
+  2c8b2bb7a75255ff 1-407
+crates/ide-lsp/src/server.rs
+  2c8b2bb7a75255ff 77-92,250-251,563-564,566,586-595,701,862-870,909-951,1162-1172
+generators/dart.toml
+  2c8b2bb7a75255ff 1-42
+src/ui/brands/nuxt.svg
+  2c8b2bb7a75255ff 1
+generators/angular.toml
+  2c8b2bb7a75255ff 1-59
+crates/ide-scaffold/src/model.rs
+  2c8b2bb7a75255ff 1-350
+src/features/vcs/patches.tsx
+  2c8b2bb7a75255ff 79,231
+crates/ide-lsp/src/handler.rs
+  2c8b2bb7a75255ff 14,19-36,70,77,92-103,116-117,121-123,162-163,167-217
+src/editor/core/cm/selectionLayer.test.ts
+  2c8b2bb7a75255ff 69-71,87-138
+src/features/settings/pages/behavior.tsx
+  2c8b2bb7a75255ff 361-365,439
+Cargo.toml
+  2c8b2bb7a75255ff 46,51-53
+crates/ide-dap/src/jvm_memory/scan.rs
+  2c8b2bb7a75255ff 1-146
+src/ui/brands/laravel.svg
+  2c8b2bb7a75255ff 1
+crates/ide-scaffold/src/lib.rs
+  2c8b2bb7a75255ff 1-17
+docs/zh/languages/adding.mdx
+  2c8b2bb7a75255ff 97
+src-tauri/src/commands/window.rs
+  2c8b2bb7a75255ff 611-652,655-670
+src/features/whats-new/__tests__/whatsNew.test.tsx
+  2c8b2bb7a75255ff 1-144
+crates/ide-jdwp/src/link/downstream.rs
+  2c8b2bb7a75255ff 1-83
+java/jvm-inspect/src/ai/openidea/jvminspect/InspectCommand.java
+  2c8b2bb7a75255ff 1-231
+generators/rails.toml
+  2c8b2bb7a75255ff 1-46
+src/platform/dialog.test.ts
+  2c8b2bb7a75255ff 1-16
+src/ui/brands/kotlin.svg
+  2c8b2bb7a75255ff 1
+src/platform/releaseNotes.test.ts
+  2c8b2bb7a75255ff 1-33
+generators/scala.toml
+  2c8b2bb7a75255ff 1-52
+crates/ide-jvm-attach/src/discover.rs
+  2c8b2bb7a75255ff 1-184
+src/platform/icls.ts
+  2c8b2bb7a75255ff 43,175-217,236-252,271,274,304-312,330,333-334,338-381
+src/features/plugins/backend.ts
+  2c8b2bb7a75255ff 219,309,318,353,360,380
+crates/ide-dap/src/kotlin.rs
+  2c8b2bb7a75255ff 12-18
+generators/nextjs.toml
+  2c8b2bb7a75255ff 1-69
+crates/ide-jdwp/src/inspector/wire.rs
+  2c8b2bb7a75255ff 1-182
+generators/ktor.toml
+  2c8b2bb7a75255ff 1-137
+e2e/consoleFont.spec.ts
+  2c8b2bb7a75255ff 1-83
+e2e/editor.spec.ts
+  2c8b2bb7a75255ff 213-258
+src/ui/brands/html.svg
+  2c8b2bb7a75255ff 1
+src/features/run/jvmTypes.test.ts
+  2c8b2bb7a75255ff 5-16,34,271-273,315-355
+crates/ide-jvm-attach/src/histogram.rs
+  2c8b2bb7a75255ff 1-154
+generators/rust.toml
+  2c8b2bb7a75255ff 1-29
+src/platform/releaseNotes.ts
+  2c8b2bb7a75255ff 1-52
+src/features/terminal/theme.ts
+  2c8b2bb7a75255ff 9,99-100,102-103,105-109,213-214,218,221
+src/features/vcs/DiffEditor.tsx
+  2c8b2bb7a75255ff 1136-1155
+src/ui/openidea/agents/qoder_dark.svg
+  2c8b2bb7a75255ff 1-4
+src/features/run/ConfigForm.tsx
+  2c8b2bb7a75255ff 206
+crates/ide-jvm-attach/src/properties.rs
+  2c8b2bb7a75255ff 1-163
+crates/ide-search/Cargo.toml
+  2c8b2bb7a75255ff 22
+src/ui/brands/spring-boot.svg
+  2c8b2bb7a75255ff 1
+src/features/database/database.test.ts
+  2c8b2bb7a75255ff 23,164-172
+src/features/settings/pages/editor/codeStyle.tsx
+  2c8b2bb7a75255ff 257
+src/features/database/treeActions.ts
+  2c8b2bb7a75255ff 152
+src/features/vcs/CommitView.tsx
+  2c8b2bb7a75255ff 86,618-628,788
+src/ui/useSelectionBoundary.test.tsx
+  2c8b2bb7a75255ff 18-20,52-57
+crates/ide-vfs/src/lib.rs
+  2c8b2bb7a75255ff 376-403,415-425
+generators/spring-boot.toml
+  2c8b2bb7a75255ff 1-45
+generators/phoenix.toml
+  2c8b2bb7a75255ff 1-44
+crates/ide-jdwp/src/inspector/tests.rs
+  2c8b2bb7a75255ff 1-398
+src/workbench/MainMenu.tsx
+  2c8b2bb7a75255ff 99-102,107,114,138,140,147
+src/features/app/windows.ts
+  2c8b2bb7a75255ff 211,218
+src/ui/brands/dart.svg
+  2c8b2bb7a75255ff 1
+crates/ide-build/src/compile/fingerprint.rs
+  2c8b2bb7a75255ff 82-95,97-98,100-101,171-175,181-189,195-264
+src/editor/navigation/lineMarkers.test.ts
+  2c8b2bb7a75255ff 191-193,411-558
+crates/ide-build/src/compile/up_to_date.rs
+  2c8b2bb7a75255ff 1-219
+java/jvm-inspect/build.py
+  2c8b2bb7a75255ff 1-39
+crates/ide-host/tests/trust.rs
+  2c8b2bb7a75255ff 56-59,489-516
+src/ui/brands/quarkus.svg
+  2c8b2bb7a75255ff 1
+src/ui/brands/scala.svg
+  2c8b2bb7a75255ff 1
+crates/ide-build/src/compile/single.rs
+  2c8b2bb7a75255ff 1-282
+src/features/vcs/cm.ts
+  2c8b2bb7a75255ff 339-347
+src/features/whats-new/model.ts
+  2c8b2bb7a75255ff 1-91
+crates/ide-jdwp/src/inspector.rs
+  2c8b2bb7a75255ff 1-108
+src/features/tools/backend.ts
+  2c8b2bb7a75255ff 41
+crates/ide-host/src/trust.rs
+  2c8b2bb7a75255ff 224-225
+src/ui/brands/flask.svg
+  2c8b2bb7a75255ff 1
+src/features/run/javaDebug.test.ts
+  2c8b2bb7a75255ff 1-69
+src/features/app/projectActions.ts
+  2c8b2bb7a75255ff 59,80
+src/features/settings/keymap/KeymapPage.tsx
+  2c8b2bb7a75255ff 234
+src/features/debugger/memory/InstancesPane.module.css
+  2c8b2bb7a75255ff 1-119
+src/features/debugger/memory/memoryState.ts
+  2c8b2bb7a75255ff 1-105
+src/features/run/java.test.ts
+  2c8b2bb7a75255ff 6,8,12,341,346-348,350-355,383,390,408,411,416,422,426-473
+src/features/settings/languages/api.ts
+  2c8b2bb7a75255ff 138
+crates/ide-dap/src/jdwp.rs
+  2c8b2bb7a75255ff 15-43,72,76,90,94-143,147,159-174
+src/workbench/TitleBar.tsx
+  2c8b2bb7a75255ff 63-65
+generators/flutter.toml
+  2c8b2bb7a75255ff 1-62
+src/ui/brands/dotnet.svg
+  2c8b2bb7a75255ff 1
+src/ui/brands/rust.svg
+  2c8b2bb7a75255ff 1
+src/features/debugger/memory/unavailableText.ts
+  2c8b2bb7a75255ff 1-32
+src/features/database/DataDialogs.tsx
+  2c8b2bb7a75255ff 152
+crates/ide-jdwp/src/lib.rs
+  2c8b2bb7a75255ff 1-15
+generators/ruby.toml
+  2c8b2bb7a75255ff 1-48
+src/features/debugger/__tests__/instancesState.test.ts
+  2c8b2bb7a75255ff 1-302
+src/features/debugger/__tests__/toolWindow.test.tsx
+  2c8b2bb7a75255ff 18,41,63,100-155
+src/features/settings/__tests__/mainMenuStyle.test.tsx
+  2c8b2bb7a75255ff 46-50
+src/ui/brands/swift.svg
+  2c8b2bb7a75255ff 1
+generators/quarkus.toml
+  2c8b2bb7a75255ff 1-50
+src/features/plugins/runtimeUi.tsx
+  2c8b2bb7a75255ff 377
+crates/ide-lsp/src/lib.rs
+  2c8b2bb7a75255ff 39,216-217,426
+src-tauri/src/commands/debug.rs
+  2c8b2bb7a75255ff 319-367
+crates/ide-remote/src/target.rs
+  2c8b2bb7a75255ff 13,121-219,483-528
+src/features/run/Run.module.css
+  2c8b2bb7a75255ff 154
+src/features/database/treeMenu.ts
+  2c8b2bb7a75255ff 24
+src/features/vcs/clone.tsx
+  2c8b2bb7a75255ff 159
+src/features/agents/SessionEditor.tsx
+  2c8b2bb7a75255ff 62,535,635-636,638-644,746,751-783,785-839,841-870,872,1170-1178,1191,1193-1197,1205,1207-1209,1211,1217,1570-1574,1621,1625,1648,1653,1671,1677,1687-1701,1704,1709,1712,1716-1723,1727-1735,1745-1750,1756,1762-1763,1770-1771,1773-1784,1802,2483-2519,2521
+src/features/app/__tests__/newProjectTemplate.test.ts
+  2c8b2bb7a75255ff 1-49
+docs/en/languages/adding.mdx
+  2c8b2bb7a75255ff 97
+crates/ide-jdwp/src/link/mod.rs
+  2c8b2bb7a75255ff 1-234
+src-tauri/src/commands/scaffold.rs
+  2c8b2bb7a75255ff 1-61
+src/features/run/TomcatSettings.tsx
+  2c8b2bb7a75255ff 75
+crates/ide-dap/src/tests/jvm_inspect.rs
+  2c8b2bb7a75255ff 1-401
+src/features/welcome/ProjectsPage.tsx
+  2c8b2bb7a75255ff 1,32,36-40,64,75-79,84-96
+docs/zh/guide/vcs.mdx
+  2c8b2bb7a75255ff 184
+crates/ide-lsp/src/launch.rs
+  2c8b2bb7a75255ff 98-100,131-133,141-147,331-346
+src-tauri/Cargo.toml
+  2c8b2bb7a75255ff 73
+generators/python.toml
+  2c8b2bb7a75255ff 1-41
+src/features/settings/__tests__/javaFormatter.test.tsx
+  2c8b2bb7a75255ff 1,53-55
+crates/ide-jdwp/src/inspector/referrers.rs
+  2c8b2bb7a75255ff 1-52
+generators/zig.toml
+  2c8b2bb7a75255ff 1-23
+src/features/settings/pages/editor/colorScheme.tsx
+  2c8b2bb7a75255ff 1156,1187
+src/ui/brands/angular.svg
+  2c8b2bb7a75255ff 1
+generators/astro.toml
+  2c8b2bb7a75255ff 1-50
+src/ui/useSelectionBoundary.ts
+  2c8b2bb7a75255ff 21-23,47-68
+crates/ide-remote/src/service.rs
+  2c8b2bb7a75255ff 4-6,11,363-380,385,400,411-421,430-477,479
+src/features/debugger/__tests__/actions.test.ts
+  2c8b2bb7a75255ff 3-4,25-38,80-81,92-94,106-107,131,184-188,274-407
+src/features/project-trust/index.tsx
+  2c8b2bb7a75255ff 144
+src/features/run/javaDebug.ts
+  2c8b2bb7a75255ff 14-20,23-24,38-55,79-80,82-85,88-90,96,101-105,117-120,124-146,156-158,181-183
+src/features/vcs/compare.tsx
+  2c8b2bb7a75255ff 78,132
+src/features/whats-new/WhatsNew.module.css
+  2c8b2bb7a75255ff 1-189
+generators/sveltekit.toml
+  2c8b2bb7a75255ff 1-58
+java/jvm-inspect/build-dependencies.sha256
+  2c8b2bb7a75255ff 1-110
+crates/ide-jdwp/src/link/ledger.rs
+  2c8b2bb7a75255ff 1-63
+src/ui/brands/nestjs.svg
+  2c8b2bb7a75255ff 1
+src/workbench/MainMenu.interaction.test.tsx
+  2c8b2bb7a75255ff 256-279
+docs/zh/guide/agents.mdx
+  2c8b2bb7a75255ff 23-24
+src/features/debugger/memory/jumpToClass.ts
+  2c8b2bb7a75255ff 1-36
+crates/ide-lsp/Cargo.toml
+  2c8b2bb7a75255ff 15
+src/features/run/runGutter.ts
+  2c8b2bb7a75255ff 16,109
+src/ui/icons.tsx
+  2c8b2bb7a75255ff 37-70,254-255
+src/features/database/store.ts
+  2c8b2bb7a75255ff 322-325,327-328,505,507
+generators/dotnet.toml
+  2c8b2bb7a75255ff 1-48
+src/features/vcs/__tests__/historyOps.test.ts
+  2c8b2bb7a75255ff 87,91-101,103
+crates/ide-host/tests/debug_jvm_memory_ipc.rs
+  2c8b2bb7a75255ff 1-90
+src/features/build-tools/linkage.test.tsx
+  2c8b2bb7a75255ff 2,236-241
+.github/workflows/release-build.yml
+  2c8b2bb7a75255ff 254-275
+generators/node.toml
+  2c8b2bb7a75255ff 1-72
+crates/ide-scaffold/src/engine.rs
+  2c8b2bb7a75255ff 1-462
+crates/ide-scaffold/tests/scaffold_smoke.rs
+  2c8b2bb7a75255ff 1-101
+src/features/agents/composerModel.ts
+  2c8b2bb7a75255ff 174,176
+crates/ide-host/src/ops/search.rs
+  2c8b2bb7a75255ff 82-83,94
+crates/ide-host/src/project.rs
+  2c8b2bb7a75255ff 213
+crates/ide-host/tests/search_encoding.rs
+  2c8b2bb7a75255ff 1-60
+src/features/debugger/__tests__/memoryLayout.test.ts
+  2c8b2bb7a75255ff 1-36
+src/features/debugger/memory/instancesState.ts
+  2c8b2bb7a75255ff 1-185
+crates/ide-jvm-attach/src/lib.rs
+  2c8b2bb7a75255ff 1-14
+src/ui/List.tsx
+  2c8b2bb7a75255ff 53-58,140,167-168,199-200,230,233-235
+crates/ide-jdwp/src/link/command_tests.rs
+  2c8b2bb7a75255ff 1-534
+crates/ide-jdwp/src/link/suspends.rs
+  2c8b2bb7a75255ff 1-80
+src/features/agents/sessionState.test.tsx
+  2c8b2bb7a75255ff 286,295-298,300,317,345-394,447,452-453,466-486,682-691
+crates/ide-run/src/tomcat.rs
+  2c8b2bb7a75255ff 1005-1010,1133-1135,1606-1669,1733
+generators/django.toml
+  2c8b2bb7a75255ff 1-51
+src/features/debugger/__tests__/memoryView.test.tsx
+  2c8b2bb7a75255ff 1-620
+generators/go.toml
+  2c8b2bb7a75255ff 1-33
+src/platform/updateSource.ts
+  2c8b2bb7a75255ff 1-11
+src/features/app/newProjectTemplate.ts
+  2c8b2bb7a75255ff 1-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "9fbdb388a45bc6565a4b1add8f43bf4e0a6cef32",
+  "prompts": {
+    "2c8b2bb7a75255ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f25e4d95-caec-4102-8686-f3903111e728",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 153596,
+      "total_deletions": 598,
+      "accepted_lines": 77856,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/6a7015dd198a2b3b3b76b89e65534a1b3f24c94eb7d68f080e9477a73df9bf74",
+      "token_usage": {
+        "input_tokens": 386941,
+        "output_tokens": 50497,
+        "cache_read_tokens": 3715968,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
