@@ -1,0 +1,43 @@
+crates/ide-host/src/plugins/mod.rs
+  2c8b2bb7a75255ff 1693-1695
+crates/ide-host/src/lib.rs
+  2c8b2bb7a75255ff 278
+crates/ide-host/tests/gitai_plugin_abi.rs
+  2c8b2bb7a75255ff 62-186
+crates/ide-host/src/plugins/remote_host.rs
+  2c8b2bb7a75255ff 646
+src-tauri/src/commands/plugin.rs
+  2c8b2bb7a75255ff 789-790,793-799
+src/features/plugins/backend.ts
+  2c8b2bb7a75255ff 373-374
+src/bindings.ts
+  2c8b2bb7a75255ff 1359-1367
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "5b71e5d2de893b30a1998076bd52d8e038f10cc4",
+  "prompts": {
+    "2c8b2bb7a75255ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f25e4d95-caec-4102-8686-f3903111e728",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 152,
+      "total_deletions": 12,
+      "accepted_lines": 150,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/1dde5c65a0a438ef5a44c3d5dfe24f1a0bec68630507ba13426eb51c6a2c8f92",
+      "token_usage": {
+        "input_tokens": 3143272,
+        "output_tokens": 671322,
+        "cache_read_tokens": 223716864,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
