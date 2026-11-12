@@ -1,0 +1,41 @@
+sdk/rust/openidea-plugin/wit/events.wit
+  2c8b2bb7a75255ff 38-43
+crates/ide-host/tests/plugins.rs
+  2c8b2bb7a75255ff 6439-6440
+wit/events.wit
+  2c8b2bb7a75255ff 38-43
+plugins/README.md
+  2c8b2bb7a75255ff 2494
+src/ui/Tree.test.tsx
+  2c8b2bb7a75255ff 184-194,538-567
+crates/ide-plugin/src/types.rs
+  2c8b2bb7a75255ff 127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "72b0d637870963158ee270fb05896b132c904b39",
+  "prompts": {
+    "2c8b2bb7a75255ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f25e4d95-caec-4102-8686-f3903111e728",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 11033,
+      "total_deletions": 935,
+      "accepted_lines": 10868,
+      "overriden_lines": 1,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f8dfa0189b2c468f69b922224454d0f8d5e1f10cb013d2d4a220f01217d962ed",
+      "token_usage": {
+        "input_tokens": 5234790,
+        "output_tokens": 903585,
+        "cache_read_tokens": 419441920,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
