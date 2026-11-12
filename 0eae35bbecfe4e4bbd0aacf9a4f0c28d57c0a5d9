@@ -1,0 +1,33 @@
+crates/ide-host/src/plugins/remote_host.rs
+  ee2647c2a920c772 648
+crates/ide-host/tests/remote_plugins.rs
+  ee2647c2a920c772 1050-1096
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "0eae35bbecfe4e4bbd0aacf9a4f0c28d57c0a5d9",
+  "prompts": {
+    "ee2647c2a920c772": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9867ac3-340e-4206-927f-8bde6516c9cf",
+        "model": "deepseek/deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 48,
+      "total_deletions": 1,
+      "accepted_lines": 48,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/4ed5dd5262cc3ebebde39fb79e176452aab99755e451c0f87b8119058d4fc3ba",
+      "token_usage": {
+        "input_tokens": 274822,
+        "output_tokens": 51175,
+        "cache_read_tokens": 3568512,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
