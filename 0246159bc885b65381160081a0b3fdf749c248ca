@@ -1,0 +1,47 @@
+src/features/plugins/runtimeUi.tsx
+  2c8b2bb7a75255ff 301-304,309-320,345-353,365-375,403-404
+crates/ide-plugin/src/types.rs
+  2c8b2bb7a75255ff 247-249
+crates/ide-host/tests/plugins.rs
+  2c8b2bb7a75255ff 6125,6147
+plugins/README.md
+  2c8b2bb7a75255ff 432-437
+sdk/rust/openidea-plugin/wit/events.wit
+  2c8b2bb7a75255ff 41-43
+wit/events.wit
+  2c8b2bb7a75255ff 41-43
+crates/ide-host/tests/gitai_plugin_abi.rs
+  2c8b2bb7a75255ff 207-212
+src/bindings.ts
+  2c8b2bb7a75255ff 2599-2600
+crates/ide-plugin/src/runtime.rs
+  2c8b2bb7a75255ff 1057-1063
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "0246159bc885b65381160081a0b3fdf749c248ca",
+  "prompts": {
+    "2c8b2bb7a75255ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f25e4d95-caec-4102-8686-f3903111e728",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 117,
+      "total_deletions": 22,
+      "accepted_lines": 117,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/2a9f83280f825d1cc824bb44fbc099ee7aee5d5b87e4a69a62ccbe6982ec2b87",
+      "token_usage": {
+        "input_tokens": 7553960,
+        "output_tokens": 1074037,
+        "cache_read_tokens": 486167040,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
