@@ -1,0 +1,35 @@
+src/features/plugins/__tests__/decorations.test.ts
+  19621453f277cd0d 2-3,13-15,361-613
+src/features/plugins/decorationHover.ts
+  19621453f277cd0d 1,14-19,37-39,161-202,213-214,231-235
+src/features/plugins/decorations.ts
+  19621453f277cd0d 7-8,108,117-118,136-142,188,233,253-262,269-276,281-309,313-322,327-328,333,336-342,344-345,348,353-354
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "a44b7386c5b13c37532380584baf1991e2a8475c",
+  "prompts": {
+    "19621453f277cd0d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "74403e47-7ba9-48a2-934f-3a952b0becbe",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 404,
+      "total_deletions": 19,
+      "accepted_lines": 404,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/5de318d73444d3858f6c36d085ee690b65f937b0ad93e93a429229b8e3bfb05a",
+      "token_usage": {
+        "input_tokens": 132663,
+        "output_tokens": 14563,
+        "cache_read_tokens": 1307136,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
