@@ -1,0 +1,35 @@
+src/features/plugins/__tests__/gitAiConversationHandoff.test.ts
+  1088297319df6b56 112-127
+src/features/plugins/decorationHover.module.css
+  1088297319df6b56 191,197-198,200-204,206-224,228-229,231,237-243
+src/features/plugins/gitAiConversationHandoff.ts
+  1088297319df6b56 297-301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "86d4ba49fe0c86c93becc60037318fde3382f2fd",
+  "prompts": {
+    "1088297319df6b56": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cfac-2314-72c3-8b18-570e1df2912a",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 58,
+      "total_deletions": 7,
+      "accepted_lines": 58,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/b34f30d71296799d5bb88e4d1006b03daf6759a56de838ee0c7641427998954f",
+      "token_usage": {
+        "input_tokens": 921069,
+        "output_tokens": 488209,
+        "cache_read_tokens": 124645063,
+        "cache_creation_tokens": null,
+        "total_cost": null
+      }
+    }
+  }
+}
