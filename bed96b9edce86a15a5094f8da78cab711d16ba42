@@ -1,0 +1,49 @@
+docs/zh/contribute/architecture/plugin-host.mdx
+  01c3bf9e8e6cb431 114-130
+src/features/plugins/runtimeUi.tsx
+  01c3bf9e8e6cb431 33,567-569
+src/features/plugins/decorations.ts
+  01c3bf9e8e6cb431 15-17,21,23,25,31-32,134,174-175,202,339,342,349-361,374-377,384,401,414-466,469-474,477-480,486,488-489,491-492
+plugins/README.md
+  01c3bf9e8e6cb431 891-935
+src/platform/locales/text/en.json
+  01c3bf9e8e6cb431 1612-1615
+src/features/plugins/decorationFileLinks.ts
+  01c3bf9e8e6cb431 1-71,74,76-109
+src/features/plugins/__tests__/decorationFileLinks.test.ts
+  01c3bf9e8e6cb431 1-299,301-313,318-337,357,367-429
+docs/en/contribute/architecture/plugin-host.mdx
+  01c3bf9e8e6cb431 120-141
+crates/ide-host/tests/plugins.rs
+  01c3bf9e8e6cb431 3387-3456
+src/platform/locales/text/zh.json
+  01c3bf9e8e6cb431 8003-8006
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "bed96b9edce86a15a5094f8da78cab711d16ba42",
+  "prompts": {
+    "01c3bf9e8e6cb431": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d7ef-d14f-76d2-9a2d-27781aac4e97",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 14009,
+      "total_deletions": 165,
+      "accepted_lines": 13198,
+      "overriden_lines": 9,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/46d162d6a8865fdccf05305ae2695f8015fa9b96b5b5c4ddd3a212f5e4fafee6",
+      "token_usage": {
+        "input_tokens": 235443,
+        "output_tokens": 85703,
+        "cache_read_tokens": 26996544,
+        "cache_creation_tokens": null,
+        "total_cost": null
+      }
+    }
+  }
+}
