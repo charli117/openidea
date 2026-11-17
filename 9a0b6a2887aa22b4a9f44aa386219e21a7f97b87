@@ -1,0 +1,47 @@
+src/platform/locales/text/en.json
+  d286c222b66acddb 32-34
+src/features/plugins/gitAiConversationHandoff.ts
+  d286c222b66acddb 27-31,39-40,84-92,230-246,251,278,280-281,306,473-498,511-524,536-545,561,563-578,591-593
+crates/ide-agent/src/native/claude/mod.rs
+  d286c222b66acddb 444-477,480
+crates/ide-agent/src/native/claude/tests.rs
+  d286c222b66acddb 623-700
+src/features/plugins/__tests__/gitAiConversationHandoff.test.ts
+  d286c222b66acddb 229-451
+crates/ide-agent/src/lib.rs
+  d286c222b66acddb 369-431,450-451,819,834-837,928,937,1261,1777,1951,2392,2396-2428,2542-2543
+src/platform/locales/text/zh.json
+  d286c222b66acddb 32-34
+crates/ide-agent/src/model.rs
+  d286c222b66acddb 596-607,624-627
+crates/ide-agent/src/tests.rs
+  d286c222b66acddb 60-61,200-204,1840-1976,4142,4270,4295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "9a0b6a2887aa22b4a9f44aa386219e21a7f97b87",
+  "prompts": {
+    "d286c222b66acddb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "940ee21b-65df-43b2-beb7-880cfe43b9e6",
+        "model": "deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 853,
+      "total_deletions": 166,
+      "accepted_lines": 724,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/04935ffc5e6df4deadc06658b48075edd578fcfee8fbd7a7193a70c73f121032",
+      "token_usage": {
+        "input_tokens": 681687,
+        "output_tokens": 353064,
+        "cache_read_tokens": 122682368,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
