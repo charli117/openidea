@@ -1,0 +1,81 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.3",
+  "base_commit_sha": "026d509b84a96d917e1bc9d05ef990d0c1936cfa",
+  "prompts": {
+    "75d2b14ab134477b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1df4c-bea9-7113-af4b-453c9e485420",
+        "model": "unknown"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "766f77d9bc146798": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e1ec-d3d7-7b72-b71c-2ab2a23073c8",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 1875710,
+      "total_deletions": 15,
+      "accepted_lines": 1875326,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/3e5b10f7d71e2393a5694c3e7a7e2ee07fa704d595bdff33bb3284822b70eaf5",
+      "token_usage": {
+        "input_tokens": 115188,
+        "output_tokens": 33006,
+        "cache_read_tokens": 5469523,
+        "cache_creation_tokens": null,
+        "total_cost": null
+      }
+    },
+    "d5aa1b04586efbcb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1df4c-290b-76b2-8528-a921b622a431",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 756,
+      "total_deletions": 69,
+      "accepted_lines": 323,
+      "overriden_lines": 1,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/ce612f7d0f1b8d0ad3c050a0843f86eacd7c16ba5041d306a10f3fe6dcc1ed63",
+      "token_usage": {
+        "input_tokens": 317855,
+        "output_tokens": 44797,
+        "cache_read_tokens": 12537873,
+        "cache_creation_tokens": null,
+        "total_cost": null
+      }
+    },
+    "fbd0a7434a0e56c7": {
+      "agent_id": {
+        "tool": "known_human",
+        "id": "known_human_session",
+        "model": "unknown"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 331,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_3b1b2e873ac26d": {
+      "author": "罗威"
+    }
+  }
+}
