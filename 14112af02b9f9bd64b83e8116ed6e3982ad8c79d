@@ -1,0 +1,207 @@
+wit/views.wit
+  2f166175ebb172e7 1,191-193
+src/platform/locales/text/en.json
+  2f166175ebb172e7 2-116,118-126,170,174,193-194,213,233-238,350,407-408,412-418,472-483,500-503,510-512,548-549,551,578-582,591-595,780-782,839,937,962,982,988-990,998-999,1003,1155-1157,1247,1287,1349-1350,1380-1381,1426-1438,1507,1509-1513,1527,1545,1547-1548,1557-1558,1633-1634,1670,1739-1740,1751-1752,1767,1855-1886,1897,1903,2011-2027,2312-2315,2361,2371,2404,2517-2551,2582-2583,2591-2592,2598,2622-2624,2631-3004
+sdk/rust/openidea-plugin/wit/extensions.wit
+  2f166175ebb172e7 1
+wit/decorations.wit
+  2f166175ebb172e7 1,12,29
+sdk/rust/openidea-plugin/src/host.rs
+  2f166175ebb172e7 2009
+wit/details.wit
+  2f166175ebb172e7 1
+plugins/README.md
+  2f166175ebb172e7 795,817,824,828,1038-1128,1290
+crates/ide-plugin/tests/fixtures/commit/dist/plugin.wasm.sources
+  2f166175ebb172e7 1
+wit/database.wit
+  2f166175ebb172e7 1
+wit/io.wit
+  2f166175ebb172e7 1,153-154,169-170,172-175
+docs/zh/plugins/architecture.mdx
+  2f166175ebb172e7 12
+sdk/rust/openidea-plugin/wit/views.wit
+  2f166175ebb172e7 1,191-193
+crates/ide-plugin/tests/fixtures/data-tools/dist/plugin.wasm.sources
+  2f166175ebb172e7 1
+wit/semantic.wit
+  2f166175ebb172e7 1
+crates/ide-plugin/tests/fixtures/api14/dist/plugin.wasm.sources
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/mcp.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/database.wit
+  2f166175ebb172e7 1
+wit/language-features.wit
+  2f166175ebb172e7 1
+plugins/official/checkstyle/dist/plugin.wasm.sources
+  2f166175ebb172e7 1
+wit/mcp.wit
+  2f166175ebb172e7 1
+plugins/official/ai-completion/dist/plugin.wasm.sources
+  2f166175ebb172e7 1
+wit/hover-actions.wit
+  2f166175ebb172e7 1
+docs/en/contribute/architecture/plugin-host.mdx
+  2f166175ebb172e7 22
+wit/extensions.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/src/lib.rs
+  2f166175ebb172e7 54,62,91-104,117,134-137,149,161-164,176,188-189,201,213-217,229,240,252-271,277,344-347,397-441,568-581,759,1289-1317,1475,1483,1533,1565,1595-1596
+sdk/rust/openidea-plugin/wit/details.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/io.wit
+  2f166175ebb172e7 1,153-154,169-170,172-175
+sdk/rust/openidea-plugin/wit/run.wit
+  2f166175ebb172e7 1
+wit/file-actions.wit
+  2f166175ebb172e7 1
+wit/plugin.wit
+  2f166175ebb172e7 11,215-219
+sdk/rust/openidea-plugin/wit/events.wit
+  2f166175ebb172e7 1,38
+sdk/rust/openidea-plugin/wit/injections.wit
+  2f166175ebb172e7 1
+wit/injections.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/inlay.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/providers.wit
+  2f166175ebb172e7 1
+crates/ide-host/src/plugins/remote_host.rs
+  2f166175ebb172e7 14-16,21-22,28,147,173,440,443
+sdk/rust/openidea-plugin/wit/workspace.wit
+  2f166175ebb172e7 1,126-128
+sdk/rust/openidea-plugin/wit/hover-actions.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/diagnostics.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/hover.wit
+  2f166175ebb172e7 1
+crates/ide-plugin/tests/fixtures/decorations/src/lib.rs
+  2f166175ebb172e7 1
+wit/exports.wit
+  2f166175ebb172e7 1
+wit/workspace.wit
+  2f166175ebb172e7 1,126-128
+sdk/rust/openidea-plugin/wit/semantic.wit
+  2f166175ebb172e7 1
+plugins/official/blame-annotations/dist/plugin.wasm.sources
+  2f166175ebb172e7 1
+src/platform/locales/text/zh.json
+  2f166175ebb172e7 2-92,94-102,159-160,290,351-357,428-430,458-459,461,654,700-702,711,781-783,939,984,1074,1077,1080-1083,1114-1118,1155,1159-1163,1194,1198-1200,1235-1236,1307-1308,1327-1331,1349,1351,1453-1469,1562,1618,1984,2074,2196,2231-2232,2247,2268,2343-2345,2584-2585,2605,2611,2748,2791,2824,2856-2858,2880,3004,3060-3061,3080-3081,3085,3087,3149,3166,3207,3284-3285,3431,3460,3804-3806,3842-3844,3873,4243,4250,4347,4369,4448-4449,4849,4871-4872,4982-4987,5150-5151,5170,5174,5353,5729-5730,5751,5776,5863-5864,5949,6220,6837,6872,7009-7010,7064,7132,7135,7228,7242,7247,7445,7460,7584,7706,7765-7766,7795-7796,7840-7852,7937,7963-7964,8168,8174-8175,8271-8302,8315,8744,8791,8904-8938,8967,8975-8976,8982-8985,9007-9332
+crates/ide-plugin/tests/api_compat.rs
+  2f166175ebb172e7 149-159
+wit/run.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/search.wit
+  2f166175ebb172e7 1
+crates/ide-agent/src/tests.rs
+  2f166175ebb172e7 42-43,64-65,225,258-272,461-489,923,942,947-967,1225-1264,1269-1345,1429-1501,1600-1618,1933-1958,2017,2355-2357,2411-2460,3018-3021,3569-3570,3574-3575,3764-4052,4069,4209-4213,4561-4562,4691-4692,4718-4719,4798,4803
+sdk/rust/openidea-plugin/wit/exports.wit
+  2f166175ebb172e7 1
+crates/ide-agent/src/lib.rs
+  2f166175ebb172e7 11,13,18,25-26,31,131-146,150,159,171-172,177,183,203,222-225,227,238-243,301-302,312-317,322,324-326,351-355,367-369,443-462,471,473,478-479,491-531,557-558,564-565,580-581,619,628-629,663-669,674-678,774-783,786-787,822-867,951-952,959-960,964,977-978,1057,1075-1076,1083-1084,1088,1095,1099-1101,1123-1125,1155-1174,1243-1253,1255-1271,1273-1281,1283-1311,1330,1335-1342,1420,1427,1458,1466-1467,1471-1472,1513-1515,1674-1685,1714-1760,1828-1829,1872-1905,1911-1912,1923-1925,1931,1934,1942,1952-2003,2077,2091-2122,2150,2155-2203,2208-2225,2233-2234,2236,2240,2246,2250,2254,2261,2277-2296,2298-2299,2302-2308,2311-2318,2335,2432-2433,2437,2480-2506,2517,2521,2554-2555,2568,2576,2582-2713,2858-2865,2887,2894-2900,2974,2976,2978,2987-2988,2997-3011,3024,3027-3032,3053-3054,3056,3061,3072,3086,3111-3155,3162,3196-3202,3210-3213,3218-3231,3235-3261,3273,3282-3291,3293-3305,3317-3319,3327-3336,3339,3344,3348,3475-3485,3580,3827-3848,3865-3872,3997,4119,4140-4150,4153-4155,4157,4159-4167,4306-4310,4359
+crates/ide-plugin/tests/fixtures/clipboard/dist/plugin.wasm.sources
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/endpoints.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/types.wit
+  2f166175ebb172e7 1
+wit/diagnostics.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/language-features.wit
+  2f166175ebb172e7 1
+wit/search.wit
+  2f166175ebb172e7 1
+docs/zh/contribute/architecture/plugin-host.mdx
+  2f166175ebb172e7 22
+sdk/rust/openidea-plugin/wit/run-targets.wit
+  2f166175ebb172e7 1
+docs/zh/plugins/api/index.mdx
+  2f166175ebb172e7 6
+docs/en/plugins/api/index.mdx
+  2f166175ebb172e7 6
+wit/endpoints.wit
+  2f166175ebb172e7 1
+crates/ide-plugin/tests/fixtures/decorations/plugin.toml
+  2f166175ebb172e7 4,7
+wit/commit.wit
+  2f166175ebb172e7 1
+wit/indexing.wit
+  2f166175ebb172e7 1
+wit/inlay.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/file-actions.wit
+  2f166175ebb172e7 1
+crates/ide-plugin/src/types.rs
+  2f166175ebb172e7 993
+crates/ide-host/src/plugins/commands.rs
+  2f166175ebb172e7 113-122
+sdk/rust/openidea-plugin/wit/commit.wit
+  2f166175ebb172e7 1
+wit/providers.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/src/types.rs
+  2f166175ebb172e7 816
+sdk/rust/openidea-plugin/wit/host.wit
+  2f166175ebb172e7 1,21-41,58-82,114-132,143-157
+wit/fs.wit
+  2f166175ebb172e7 1,7-12
+sdk/rust/openidea-plugin/wit/decorations.wit
+  2f166175ebb172e7 1,12,29
+wit/run-targets.wit
+  2f166175ebb172e7 1
+crates/ide-agent/src/model.rs
+  2f166175ebb172e7 48-49,113-138,283-300,330-345,518-525,528-530,542-546,620-622,709-715,730-731,757-758,906-981
+crates/ide-plugin/tests/fixtures/build-graph/dist/plugin.wasm.sources
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/plugin.wit
+  2f166175ebb172e7 11,215-219
+docs/en/plugins/architecture.mdx
+  2f166175ebb172e7 12
+wit/types.wit
+  2f166175ebb172e7 1
+wit/events.wit
+  2f166175ebb172e7 1,38
+wit/host.wit
+  2f166175ebb172e7 1,21-41,58-82,114-132,143-157
+wit/hover.wit
+  2f166175ebb172e7 1
+sdk/rust/openidea-plugin/wit/indexing.wit
+  2f166175ebb172e7 1
+crates/ide-host/tests/plugins.rs
+  2f166175ebb172e7 6873
+sdk/rust/openidea-plugin/wit/fs.wit
+  2f166175ebb172e7 1,7-12
+crates/ide-host/tests/remote_plugins.rs
+  2f166175ebb172e7 1130-1161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "14112af02b9f9bd64b83e8116ed6e3982ad8c79d",
+  "prompts": {
+    "2f166175ebb172e7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21eade38-e024-434b-9554-e70c768975e0",
+        "model": "qwen4-max"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 3829,
+      "total_deletions": 1289,
+      "accepted_lines": 3810,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/81cacd67985903cf479c7eccf496b42b871ff847183bcee63328b32fac4c4ee5",
+      "token_usage": {
+        "input_tokens": 75936,
+        "output_tokens": 626326,
+        "cache_read_tokens": 146431243,
+        "cache_creation_tokens": 7717898,
+        "total_cost": null
+      }
+    }
+  }
+}
