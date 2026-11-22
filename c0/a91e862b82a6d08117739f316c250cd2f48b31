@@ -1,0 +1,13 @@
+src/platform/locales/text/zh.json
+  6a185c2da719cafe 9356-9363
+src/features/plugins/decorationHover.ts
+  6a185c2da719cafe 190-191,196-198
+src/platform/locales/text/en.json
+  6a185c2da719cafe 3033-3040
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "c0a91e862b82a6d08117739f316c250cd2f48b31",
+  "prompts": {}
+}
