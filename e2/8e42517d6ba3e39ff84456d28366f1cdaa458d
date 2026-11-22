@@ -1,0 +1,36 @@
+src/platform/locales/text/zh.json
+  6a185c2da719cafe 9356-9364
+src/features/plugins/decorationHover.ts
+  6a185c2da719cafe 188-195
+src/platform/locales/text/en.json
+  6a185c2da719cafe 3033-3041
+plugins/README.md
+  6a185c2da719cafe 36,39,429-445,795,1290-1342,3075
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "e28e42517d6ba3e39ff84456d28366f1cdaa458d",
+  "prompts": {
+    "6a185c2da719cafe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34594a20-0e9e-4716-83a2-a209c9fb5eaf",
+        "model": "qwen4-max"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 86,
+      "overriden_lines": 0,
+      "token_usage": {
+        "input_tokens": 109757,
+        "output_tokens": 474412,
+        "cache_read_tokens": 84739927,
+        "cache_creation_tokens": 2820307,
+        "total_cost": null
+      }
+    }
+  }
+}
