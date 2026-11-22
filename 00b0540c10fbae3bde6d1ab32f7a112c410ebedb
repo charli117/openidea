@@ -1,0 +1,31 @@
+scripts/smoke-paths.test.ts
+  6a185c2da719cafe 29,34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "00b0540c10fbae3bde6d1ab32f7a112c410ebedb",
+  "prompts": {
+    "6a185c2da719cafe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34594a20-0e9e-4716-83a2-a209c9fb5eaf",
+        "model": "qwen4-max"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 3,
+      "accepted_lines": 2,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/b8426c5d967c0066383b49c5e11d4fdc95778fda77669fb34eafefbdb982e79d",
+      "token_usage": {
+        "input_tokens": 176385,
+        "output_tokens": 1100147,
+        "cache_read_tokens": 454984032,
+        "cache_creation_tokens": 12359480,
+        "total_cost": null
+      }
+    }
+  }
+}
