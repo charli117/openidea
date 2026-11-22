@@ -1,0 +1,33 @@
+sdk/rust/openidea-plugin/src/lib.rs
+  6a185c2da719cafe 117,134-137,149,161-164,176,188-189,201,213-217,229,240,252-255,268-271,1475,1483,1533,1565,1595-1596
+plugins/README.md
+  6a185c2da719cafe 39,429-440,3016
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "d666d457bc3759af870d901f23b959ca99681ea4",
+  "prompts": {
+    "6a185c2da719cafe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34594a20-0e9e-4716-83a2-a209c9fb5eaf",
+        "model": "qwen4-max"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 51,
+      "total_deletions": 85,
+      "accepted_lines": 51,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/d731075e4a7342484d9f69301cedb166d77a25d8b9caab7ef67376391c4df210",
+      "token_usage": {
+        "input_tokens": 109120,
+        "output_tokens": 392850,
+        "cache_read_tokens": 58168716,
+        "cache_creation_tokens": 2692713,
+        "total_cost": null
+      }
+    }
+  }
+}
