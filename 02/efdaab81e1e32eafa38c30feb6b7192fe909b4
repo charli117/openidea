@@ -1,0 +1,36 @@
+src/platform/locales/text/en.json
+  6a185c2da719cafe 3691-3697
+src/platform/locales/text/zh.json
+  6a185c2da719cafe 9942-9948
+crates/ide-agent/src/tests.rs
+  6a185c2da719cafe 4621
+src/features/plugins/decorationHover.ts
+  6a185c2da719cafe 190-191,196-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "02efdaab81e1e32eafa38c30feb6b7192fe909b4",
+  "prompts": {
+    "6a185c2da719cafe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34594a20-0e9e-4716-83a2-a209c9fb5eaf",
+        "model": "qwen4-max"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "token_usage": {
+        "input_tokens": 175283,
+        "output_tokens": 953410,
+        "cache_read_tokens": 366228918,
+        "cache_creation_tokens": 7235127,
+        "total_cost": null
+      }
+    }
+  }
+}
