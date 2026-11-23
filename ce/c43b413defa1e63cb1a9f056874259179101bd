@@ -1,0 +1,33 @@
+src/features/agents/store.ts
+  12983afc48024543 1286-1287,1296-1311,1316,1322-1331,1333-1336,1338-1341,1359,1369,1372-1384,1387,1393-1399
+src/features/agents/ImportSessionsDialog.tsx
+  12983afc48024543 122,126-127,130-143,145,151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "cec43b413defa1e63cb1a9f056874259179101bd",
+  "prompts": {
+    "12983afc48024543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "086817ad-49d3-457b-8d75-37d73915aecf",
+        "model": "qwen4-max"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 79,
+      "total_deletions": 95,
+      "accepted_lines": 79,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/5810df8ecf178de9870c23768d2b75613e4030b1846c587b84b7d1cdea147e52",
+      "token_usage": {
+        "input_tokens": 11908,
+        "output_tokens": 662731,
+        "cache_read_tokens": 184848450,
+        "cache_creation_tokens": 9433218,
+        "total_cost": null
+      }
+    }
+  }
+}
