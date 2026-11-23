@@ -1,0 +1,31 @@
+crates/ide-host/tests/plugins.rs
+  12983afc48024543 1403-1440,1702
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "c6389c124f19660eb300aeb9c4f9c894475e760b",
+  "prompts": {
+    "12983afc48024543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "086817ad-49d3-457b-8d75-37d73915aecf",
+        "model": "qwen4-max"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 19,
+      "total_deletions": 14,
+      "accepted_lines": 8,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/8e8de5dddbc1abf28f3a513305e157fc30ce9fdbfa6b0578615ef7f6c676c6f1",
+      "token_usage": {
+        "input_tokens": 11682,
+        "output_tokens": 620783,
+        "cache_read_tokens": 170815450,
+        "cache_creation_tokens": 7716391,
+        "total_cost": null
+      }
+    }
+  }
+}
