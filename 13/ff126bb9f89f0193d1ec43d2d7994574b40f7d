@@ -1,0 +1,37 @@
+src/features/plugins/__tests__/decorations.test.ts
+  a06e8ef5528f51a6 206,345-350,354
+src/platform/locales/text/en.json
+  a06e8ef5528f51a6 1348-1353
+src/platform/locales/text/zh.json
+  a06e8ef5528f51a6 7735-7740
+src/features/plugins/decorationHover.ts
+  a06e8ef5528f51a6 25,88-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "13ff126bb9f89f0193d1ec43d2d7994574b40f7d",
+  "prompts": {
+    "a06e8ef5528f51a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "15f6027e-0643-49b0-aa38-399bccd8ba67",
+        "model": "qwen4-max"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 26,
+      "total_deletions": 23,
+      "accepted_lines": 48,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/3a1fb33b8b78e4d4463eb804a317549b3f3b0372952cde14cf8e9cb374baf803",
+      "token_usage": {
+        "input_tokens": 9977,
+        "output_tokens": 883931,
+        "cache_read_tokens": 51190842,
+        "cache_creation_tokens": 6855894,
+        "total_cost": null
+      }
+    }
+  }
+}
