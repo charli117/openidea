@@ -1,0 +1,42 @@
+sdk/rust/openidea-plugin/src/host.rs
+  c5159079d9bb6dd4 2147-2148
+wit/agents.wit
+  c5159079d9bb6dd4 5-6
+crates/ide-agent/src/tests.rs
+  c5159079d9bb6dd4 2252-2303
+plugins/README.md
+  c5159079d9bb6dd4 373,449-453,789-870,1138-1148
+docs/zh/plugins/capabilities.mdx
+  c5159079d9bb6dd4 48
+sdk/rust/openidea-plugin/wit/agents.wit
+  c5159079d9bb6dd4 5-6
+docs/zh/plugins/versioning.mdx
+  c5159079d9bb6dd4 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "f12591212178f162aed88d93c526b46f37460450",
+  "prompts": {
+    "c5159079d9bb6dd4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dabf3b8c-8076-477c-8000-c8b5690fffa7",
+        "model": "deepseek-flash"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 27,
+      "total_deletions": 17,
+      "accepted_lines": 118,
+      "overriden_lines": 0,
+      "token_usage": {
+        "input_tokens": 546564,
+        "output_tokens": 212417,
+        "cache_read_tokens": 47560832,
+        "cache_creation_tokens": 0,
+        "total_cost": null
+      }
+    }
+  }
+}
