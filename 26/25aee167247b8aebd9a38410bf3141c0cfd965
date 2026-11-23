@@ -1,0 +1,31 @@
+crates/ide-host/tests/maven_external.rs
+  6a185c2da719cafe 74-75,77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.8.4",
+  "base_commit_sha": "2625aee167247b8aebd9a38410bf3141c0cfd965",
+  "prompts": {
+    "6a185c2da719cafe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34594a20-0e9e-4716-83a2-a209c9fb5eaf",
+        "model": "qwen4-max"
+      },
+      "human_author": "罗威 <luowei@cvte.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 3,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/3879bec8512ec714707d3d914f833c7ca6cc85982f89d36020e8f32c345149e4",
+      "token_usage": {
+        "input_tokens": 184540,
+        "output_tokens": 1963808,
+        "cache_read_tokens": 1296747316,
+        "cache_creation_tokens": 26479288,
+        "total_cost": null
+      }
+    }
+  }
+}
